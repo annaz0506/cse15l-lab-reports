@@ -1,10 +1,8 @@
-hi
+*Italics test*
 
-*Italic*
+**hi**
 
-**Bold**
-
-# Heading 1
+# CSE15L
 
 ## Heading 2
 
