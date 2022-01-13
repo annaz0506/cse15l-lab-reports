@@ -27,6 +27,16 @@
 ![Image](Images/vscodeNewTerminal.png)
 
 2.3 Type the following command into the terminal replacing "zz" with your course-specific account letters:
+
 `ssh cs15lwi22zz@ieng66.ucsd.edu`
 
 *Note*: after 15 is a lowercase L, not 1
+
+2.4 When logging in for the first time, the following message will appear. Type yes and press enter.
+
+```
+⤇ssh cs15lwi22zz@ieng6.ucsd.edu
+The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
+RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
+Are you sure you want to continue connecting (yes/no/[fingerprint])?
+```
