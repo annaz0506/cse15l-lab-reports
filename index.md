@@ -1,3 +1,4 @@
-[Lab Report 1](lab-report-1-week-2.md)
+# Anna Zhao CSE15L
 
-[Lab Report 1](https://annaz0506.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+## Lab Reports:
+[Lab Report 1](lab-report-1-week-2.md)
