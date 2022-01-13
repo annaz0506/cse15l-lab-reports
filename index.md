@@ -14,7 +14,7 @@ hi
 3. Three
 Horizontal rule:
 ---
-'Inline code' with backticks
+`Inline code` with backticks
 ```
 # code block
 print '3 backticks or'
