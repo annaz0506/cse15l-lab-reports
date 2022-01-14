@@ -48,6 +48,7 @@
 
 *Remote Computer*
 ![Image](Images/remoteComputerCommands.png)
---cp copies, cat reads files, can only been
+--cp copies, cat reads files, can only be used if we have permission to read the files
 ![Image](Images/exitCommand.png)
+
 --exit or Ctrl-D exits the remote control
