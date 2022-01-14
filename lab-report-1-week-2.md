@@ -52,3 +52,19 @@
 ![Image](Images/exitCommand.png)
 
 --exit or Ctrl-D exits the remote control
+
+**4. Moving Files with `scp`**
+
+4.1 Create file named "WhereAmI.java" with following contents
+![Image](Images/WhereAmIFile.png)
+
+4.2 Compile using `javac` and run using `java` on own computer
+![Image](Images/WhereAmIOwnComputer.png)
+--returns the user's operating system, username, home, and directory
+
+4.3 Login to remote computer in the same directory as this file with the command `scp WhereAmI.java [account name]:~/` and then login to the remote computer again using `ssh` and run the ls command and WhereAmI.java should be seen
+![Image](Images/WhereAmIRemote.png)
+
+4.4 Run WhereAmI.java on the remote computer
+![Image](Images/WhereAmIRemoteRun.png)
+--however when we want to edit and rerun the file on the remote computer, this process is inefficient as it took our group around 1.5 minutes to do that one time
