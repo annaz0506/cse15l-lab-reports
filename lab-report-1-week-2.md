@@ -68,3 +68,19 @@
 4.4 Run WhereAmI.java on the remote computer
 ![Image](Images/WhereAmIRemoteRun.png)
 --however when we want to edit and rerun the file on the remote computer, this process is inefficient as it took our group around 1.5 minutes to do that one time
+
+**5. Setting an SSH Key**
+
+5.1 Run this command `ssh-keygen`
+![Image](Images/sshKeygen.png)
+
+5.2 Copy public key to user account
+![Image](Images/sshKeygenCopy.png)
+
+Now we can login to our remote computer without typing in the password!
+
+**6. Optimizing Remote Running**
+
+6.1 Try optimizing the remote running time by combining commands
+![Image](Images/optimizingRemoteRunning.png)
+--we can run commands directly in the remote computer by putting them in "" and we an separate individual commands using ; hence we can run this by using simply one command line
