@@ -11,4 +11,4 @@
 1.1 Code Change Screenshot:
 ![Image](Images2/imageCodeChange.png)
 1.2 Test File for Failure-Inducing input:
-[Image Test](lab-test2.md)
+[Image Test](/Users/annazhao/Documents/GitHub/markdown-parse/lab-test2.md)
