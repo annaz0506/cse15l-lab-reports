@@ -13,7 +13,7 @@
 
 *Note*: If VS Code is already installed on your computer, you can skip to step 2 (Remotely Connecting).
 
-1.1 Open the Visual Studio Code website and follow the instructions to download Visual Studio Code for your computer.
+1.1 Open the Visual Studio Code website ([https://code.visualstudio.com/](https://code.visualstudio.com/)) and follow the instructions to download Visual Studio Code for your computer.
 ![Image](Images/vscode.png)
 
 1.2 After installing Visual Studio Code, the following window should open when you open the application:
