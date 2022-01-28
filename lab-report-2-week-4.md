@@ -33,3 +33,17 @@ The input of the image also uses square brackets and parantheses, which is what 
 2.4 Relation:
 
 The input that was used for this section did not have square brackets, however it still had parentheses. The symptom was that the code continued running until the results had to be added in to the ArrayList but the indexes were negative numbers, returning an error. From this, we can see that there is a bug in the code as the code continues to run even when the brackets are not found.
+
+**3. Code Change #3**
+
+3.1 Code Change Screenshot:
+![Image](Images2/failureInducingInput3CodeChange.png)
+
+3.2 Test File for Failure-Inducing input: [One Parentheses & Second Line Valid Test](https://annaz0506.github.io/markdown-parse/lab-test4.html)
+
+3.3 Symptom of Failure-Inducing input:
+![Image](Images2/failureInducingOutput3.png)
+
+3.4 Relation:
+
+The input for this section was mainly to see if the code will continue running if the first part of the file is not a link. The symptom was that the code did not continue and returned an empty array when it should have returned an array with the link in the second part of the code. From this, we can see that there is a bug in the code where the code stops running and returns an empty ArrayList when it first encounters an invalidity instead of continuing through the rest of the file.
