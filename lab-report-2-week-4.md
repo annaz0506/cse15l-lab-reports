@@ -12,3 +12,8 @@
 ![Image](Images2/imageCodeChange.png)
 1.2 Test File for Failure-Inducing input:
 [Image Test](/Users/annazhao/Documents/GitHub/markdown-parse/lab-test2.md)
+
+1.3 Symptom of Failure-Inducing input:
+![Image](Images2/imageFailureInducingOutput.png)
+
+1.4 Relation:
