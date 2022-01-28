@@ -17,3 +17,5 @@
 ![Image](Images2/imageFailureInducingOutput.png)
 
 1.4 Relation:
+
+The input of the image also uses square brackets and parantheses, which is what the code relies on primarily to return the links in an array. Hence, when providing an image markdown file to the code, it still returns the contents in the parantheses although it is not a link, this is the symptom that we see. From this, we can see that there is a bug in the code where it only focuses on the brackets and parantheses and ignores the other symbols that may be essential in defining what markdown is being used.
