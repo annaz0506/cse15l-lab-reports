@@ -84,3 +84,7 @@ Now we can login to our remote computer without typing in the password!
 6.1 Try optimizing the remote running time by combining commands
 ![Image](Images/optimizingRemoteRunning.png)
 --we can run commands directly in the remote computer by putting them in "" and we an separate individual commands using ; hence we can run this by using simply one command line
+
+--this takes 68 keystrokes to run the first time, but only 2 to re-run (up key and enter)
+
+--the original would only take 61 keystrokes to run the first time, however it would take 6 keystrokes to re-run (up key twice and enter for each command: `javac` and `java`)
