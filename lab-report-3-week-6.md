@@ -27,3 +27,5 @@ Host ieng6
 Then I saved the file and closed it returning to my terminal.
 
 **2. `ssh` Login To Account After**
+![Image](Images3/sshSuccess.png)
+After editing the file, I ensured that it works by using the command `ssh ieng6` to login to my remote account. As shown in the screenshot, the command worked meaning the file editing was successful.
