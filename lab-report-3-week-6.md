@@ -16,4 +16,14 @@ Opening newly created `.ssh/config`:
 ![Image](Images3/creatingConfig2.png)
 Then I opened the empty file using the `open` command in terminal to ensure that the file has been successfully created.
 
+Editing `.ssh/config`:
+![Image](Images3/editingConfig.png)
+After ensuring the file was created, I started editing the file by adding the following text
+```
+Host ieng6
+    HostName ieng6.ucsd.edu
+    User cs15lwi22aef
+```
+Then I saved the file and closed it returning to my terminal.
+
 **2. `ssh` Login To Account After**
