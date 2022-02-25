@@ -14,3 +14,15 @@
 
 
 **1. Snippet 1**
+
+Test file of snippet 1:
+![Image](Images4/snippet1TestFile.png)
+
+Tester code for snippet 1:
+![Image](Images4/snippet1Tester.png)
+
+Output for my implementation:
+![Image](Images4/snippet1TestFailMine.png)
+
+Output for reviewed implementation:
+![Image](Images4/snippet1TestFailReview.png)
