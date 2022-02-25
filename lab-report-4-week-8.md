@@ -26,3 +26,31 @@ Output for my implementation:
 
 Output for reviewed implementation:
 ![Image](Images4/snippet1TestFailReview.png)
+
+**2. Snippet 2**
+
+Test file of snippet 2:
+![Image](Images4/snippet2TestFile.png)
+
+Tester code for snippet 2:
+![Image](Images4/snippet2TestFile.png)
+
+Output for my implementation:
+![Image](Images4/snippet2TestFailMine.png)
+
+Output for reviewed implementation:
+![Image](Images4/snippet2TestFailReview.png)
+
+**3. Snippet 3**
+
+Test file of snippet 3:
+![Image](Images4/snippet3TestFile.png)
+
+Tester code for snippet 2:
+![Image](Images4/snippet3TestFile.png)
+
+Output for my implementation:
+![Image](Images4/snippet3TestFailMine.png)
+
+Output for reviewed implementation:
+![Image](Images4/snippet3TestFailReview.png)
