@@ -27,13 +27,14 @@ Output for my implementation:
 Output for reviewed implementation:
 ![Image](Images4/snippet1TestFailReview.png)
 
+
 **2. Snippet 2**
 
 Test file of snippet 2:
 ![Image](Images4/snippet2TestFile.png)
 
 Tester code for snippet 2:
-![Image](Images4/snippet2TestFile.png)
+![Image](Images4/snippet2Tester.png)
 
 Output for my implementation:
 ![Image](Images4/snippet2TestFailMine.png)
