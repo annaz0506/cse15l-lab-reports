@@ -8,9 +8,9 @@
 
 **Markdown Repositories**
 
-[My markdown](https://github.com/annaz0506/markdown-parse)
+[My Markdown](https://github.com/annaz0506/markdown-parse)
 
-[Reviewed markdown](https://github.com/merrickqiu/markdown-parse)
+[Reviewed Markdown](https://github.com/merrickqiu/markdown-parse)
 
 
 **1. Snippet 1**
