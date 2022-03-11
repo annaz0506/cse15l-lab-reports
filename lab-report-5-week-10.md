@@ -12,3 +12,8 @@ Firstly I ran the command `time bash script.sh > labResults.txt` in the shared f
 ![Image](Images5/classResults.png)
 ![Image](Images5/groupResults.png)
 Then I moved both of the files to the same directory and used the command `diff labResults.txt labResult2.txt` to find generate a list of the results that were different for each tester.
+
+**2. First Test Correctness and Changes**
+
+The first test I chose that was different for each tester was test 504.
+![Image](Images5/test504.png)
