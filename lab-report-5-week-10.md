@@ -17,3 +17,6 @@ Then I moved both of the files to the same directory and used the command `diff 
 
 The first test I chose that was different for each tester was test 504.
 ![Image](Images5/test504.png)
+![Image](Images5/test504Code.png)
+
+For the shared class code, the output was an empty array while for our group's code, the output was an array with the contents within the brackets of the test file. I believe that the correct output is the one of the shared class code because although the formatting of the markdown is in that for a link, the actual text within the bracket does not follow the format for a link. In reality, a link needs a domain and title, however the text in the parentheses do not have a domain like .com. This should be corrected to ensure that the links are actually valid on a webpage.
