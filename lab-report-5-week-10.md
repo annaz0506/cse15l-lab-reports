@@ -5,3 +5,9 @@
 1. How to find tests with different results
 2. First Test Correctness and Changes
 3. Second Test Correctness and Changes
+
+**1. How to find tests with different results**
+
+Firstly I ran the command `time bash script.sh > labResults.txt` in the shared file for the class and then the same command for my group's file but changed `labResults.txt` to `labResults2.txt`.
+![Image](Images5/classResults.png)
+![Image](Images5/groupResults.png)
